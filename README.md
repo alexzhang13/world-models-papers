@@ -12,7 +12,7 @@ List of papers on World Models that I'm currently interested in/reading in chron
   * Freeman and Metz and Ha, **"Learning to Predict Without Looking Ahead:
 World Models Without Forward Prediction"**, 2019. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2019/file/15cf76466b97264765356fcc56d801d1-Paper.pdf) [[link]](https://learningtopredict.github.io/)
   * Zhang et al., **"World Model as a Graph:
-Learning Latent Landmarks for Planning"**, 2021. [[paper]]("http://proceedings.mlr.press/v139/zhang21x/zhang21x.pdf")
+Learning Latent Landmarks for Planning"**, 2021. [[paper]](http://proceedings.mlr.press/v139/zhang21x/zhang21x.pdf)
 
 ## Policy Improvements
   * **(DreamerV1)** Hafner et al., **"Dream to Control: Learning Behaviors by Latent Imagination"**, 2019. [[paper]](https://arxiv.org/abs/1912.01603) [[code]](https://github.com/google-research/dreamer)
