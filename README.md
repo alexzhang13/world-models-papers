@@ -29,4 +29,5 @@ Selected list of papers on World Models that I found interesting and/or useful i
   * **(RAP)** Hao et al., ["Reasoning with Language Model is Planning with World Model"](https://arxiv.org/abs/2305.14992), 2023. [[code]](https://github.com/Ber666/RAP) | [[bibtex]](./world-model-papers.bib#L102-L109)
 
 ## Visual and Robotics
-  * **(PathDreamer)** Koh et al. ["PathDreamer: A World Model for Indoor Navigation"](https://arxiv.org/abs/2105.08756v2), 2022. [[code]](https://github.com/google-research/pathdreamer) | [[blog]](https://ai.googleblog.com/2021/09/pathdreamer-world-model-for-indoor.html) | [[bibtex]](./world-model-papers.bib#L129-L136)
+  * **(PathDreamer)** Koh et al. ["PathDreamer: A World Model for Indoor Navigation"](https://arxiv.org/abs/2105.08756v2), 2021. [[code]](https://github.com/google-research/pathdreamer) | [[blog]](https://ai.googleblog.com/2021/09/pathdreamer-world-model-for-indoor.html) | [[bibtex]](./world-model-papers.bib#L129-L136)
+  * Seo et al. ["Masked World Models for Visual Control"](https://arxiv.org/abs/2206.14244), 2022. [[code]](https://github.com/younggyoseo/MWM) | [[site]](https://sites.google.com/view/mwm-rl) | [[bibtex]](./world-model-papers.bib#L138-L145)
