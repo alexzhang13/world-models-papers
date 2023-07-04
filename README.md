@@ -1,5 +1,5 @@
 # World Model Papers
-List of papers on World Models that I'm currently interested in/reading in chronological order. Suggestions and pull requests are welcome and appreciated!
+Selected list of papers on World Models that I found interesting and/or useful in chronological order. Suggestions and pull requests are welcome and appreciated!
 
 # Areas
   * [General World Models](#general-world-models)
