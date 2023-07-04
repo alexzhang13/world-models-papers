@@ -9,20 +9,19 @@ List of papers on World Models that I'm currently interested in/reading in chron
   
 
 ## General World Models
-  * D. Ha and J. Schmidhuber, ["Recurrent World Models Facilitate Policy Evolution"](https://arxiv.org/abs/1803.10122), 2018. [[site]](https://worldmodels.github.io/) |  [[code]](https://blog.otoro.net/2018/06/09/world-models-experiments/) | [[bibtex]](./world-model-papers.bib#L1-L10)
-  * D. Freeman and L. Metz and D. Ha, ["Learning to Predict Without Looking Ahead:
-World Models Without Forward Prediction"](https://proceedings.neurips.cc/paper_files/paper/2019/file/15cf76466b97264765356fcc56d801d1-Paper.pdf), 2019. [[site]](https://learningtopredict.github.io/) | [[code]](https://github.com/google/brain-tokyo-workshop/tree/master/learntopredict) | [[bibtex]](./world-model-papers.bib#L12-L19)
+  * D. Ha and J. Schmidhuber, ["Recurrent World Models Facilitate Policy Evolution"](https://arxiv.org/abs/1803.10122), 2018. [[site]](https://worldmodels.github.io/) | [[code]](https://blog.otoro.net/2018/06/09/world-models-experiments/) | [[bibtex]](./world-model-papers.bib#L1-L10)
+  * D. Freeman and L. Metz and D. Ha, ["Learning to Predict Without Looking Ahead: World Models Without Forward Prediction"](https://proceedings.neurips.cc/paper_files/paper/2019/file/15cf76466b97264765356fcc56d801d1-Paper.pdf), 2019. [[site]](https://learningtopredict.github.io/) | [[code]](https://github.com/google/brain-tokyo-workshop/tree/master/learntopredict) | [[bibtex]](./world-model-papers.bib#L12-L19)
   * Kipf et al., ["Contrastive Learning of Structured World Models"](https://arxiv.org/abs/1911.12247v2), 2020. [[code]](https://github.com/tkipf/c-swm) | [[bibtex]](./world-model-papers.bib#L21-L28)
-  * Zhang et al., ["World Model as a Graph: Learning Latent Landmarks for Planning"](https://arxiv.org/abs/2011.12491), 2021. [[code]](https://github.com/LunjunZhang/world-model-as-a-graph) | [[bibtex]](./world-model-as-a-graph.bib#L30-L37)
+  * Zhang et al., ["World Model as a Graph: Learning Latent Landmarks for Planning"](https://arxiv.org/abs/2011.12491), 2021. [[code]](https://github.com/LunjunZhang/world-model-as-a-graph) | [[bibtex]](./world-model-papers.bib#L30-L37)
   * V. Micheli, and E. Alonso and F. Fleuret, ["Transformers are Sample-Efficient World Models"](https://openreview.net/forum?id=vhFu1Acb0xb), 2023. [[code]](https://github.com/eloialonso/iris) | [[bibtex]](./world-model-papers.bib#L39-L46)
 
 ## Policy Improvements
-  * **(DreamerV1)** Hafner et al., ["Dream to Control: Learning Behaviors by Latent Imagination"](https://arxiv.org/abs/1912.01603) 2019. [[code]](https://github.com/google-research/dreamer) | [[bibtex]](./world-model-as-a-graph.bib#L48-L55)
-  * **(DreamerV2)** Hafner et al., ["Mastering Atari with Discrete World Models"](https://arxiv.org/abs/2010.02193), 2020. [[code]](https://github.com/danijar/dreamerv2) | [[bibtex]](./world-model-models.bib#L57-L64)
-  * **(TransDreamer)** Chen et al., [TransDreamer: Reinforcement Learning with Transformer World Models"](https://arxiv.org/abs/2202.09481), 2022. [[bibtex]](./world-models.bib#L66-L73)
-  * **(CASCADE)** Xu et al., [Learning General World Models in a Handful of Reward-Free Deployments](https://arxiv.org/abs/2210.12719), 2022. [[code]](https://github.com/facebookresearch/cascade) | [[site]](https://ycxuyingchen.github.io/cascade/) | [[bibtex]](./world-models.bib#L120-L127)
-  * **(DreamerV3)** Hafner et al., ["Mastering Diverse Domains through World Models"](https://arxiv.org/abs/2301.04104), 2023. [[code]](https://github.com/danijar/dreamerv3) [[bibtex]](./world-models.bib#L75-L82)
-  * **(Voyager)** Wang et al., ["Voyager: An Open-Ended Embodied Agent with Large Language Models"](https://arxiv.org/abs/2305.16291), 2023. [[code]](https://github.com/MineDojo/Voyager) | [[site]](https://voyager.minedojo.org) | [[bibtex]](./world-models.bib#L111-L118)
+  * **(DreamerV1)** Hafner et al., ["Dream to Control: Learning Behaviors by Latent Imagination"](https://arxiv.org/abs/1912.01603) 2019. [[code]](https://github.com/google-research/dreamer) | [[bibtex]](./world-model-papers.bib#L48-L55)
+  * **(DreamerV2)** Hafner et al., ["Mastering Atari with Discrete World Models"](https://arxiv.org/abs/2010.02193), 2020. [[code]](https://github.com/danijar/dreamerv2) | [[bibtex]](./world-model-papers.bib#L57-L64)
+  * **(TransDreamer)** Chen et al., [TransDreamer: Reinforcement Learning with Transformer World Models"](https://arxiv.org/abs/2202.09481), 2022. [[bibtex]](./world-models-papers.bib#L66-L73)
+  * **(CASCADE)** Xu et al., [Learning General World Models in a Handful of Reward-Free Deployments](https://arxiv.org/abs/2210.12719), 2022. [[code]](https://github.com/facebookresearch/cascade) | [[site]](https://ycxuyingchen.github.io/cascade/) | [[bibtex]](./world-models-papers.bib#L120-L127)
+  * **(DreamerV3)** Hafner et al., ["Mastering Diverse Domains through World Models"](https://arxiv.org/abs/2301.04104), 2023. [[code]](https://github.com/danijar/dreamerv3) | [[bibtex]](./world-models-papers.bib#L75-L82)
+  * **(Voyager)** Wang et al., ["Voyager: An Open-Ended Embodied Agent with Large Language Models"](https://arxiv.org/abs/2305.16291), 2023. [[code]](https://github.com/MineDojo/Voyager) | [[site]](https://voyager.minedojo.org) | [[bibtex]](./world-models-papers.bib#L111-L118)
 
 ## Language-oriented
   * Cowen-Rivers and Naradowsky, ["Emergent Communication with World Models"](https://arxiv.org/abs/2002.09604), 2020. [[bibtex]](./world-model-papers.bib#L84-L91)
