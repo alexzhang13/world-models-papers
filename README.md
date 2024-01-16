@@ -27,6 +27,8 @@ Selected list of papers on World Models that I found interesting and/or useful i
   * Cowen-Rivers and Naradowsky, ["Emergent Communication with World Models"](https://arxiv.org/abs/2002.09604), 2020. [[bibtex]](./world-model-papers.bib#L84-L91)
   * **(DECKARD)** Nottingham et al., ["Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling"](https://arxiv.org/abs/2301.12050), 2023. [[code]](https://github.com/DeckardAgent/deckard) | [[bibtex]](./world-model-papers.bib#L93-L100)
   * **(RAP)** Hao et al., ["Reasoning with Language Model is Planning with World Model"](https://arxiv.org/abs/2305.14992), 2023. [[code]](https://github.com/Ber666/RAP) | [[bibtex]](./world-model-papers.bib#L102-L109)
+  * **LanGWM** Poudel et al., ["LanGWM: Language Grounded World Model"](https://arxiv.org/abs/2311.17593), 2023. [[bibtex]](./world-model-papers.bib#L147-L154)
+  * **Dynalang** Lin et al. ["Learning to Model the World with Language"](https://arxiv.org/abs/2308.01399), 2023. [[code]](https://github.com/jlin816/dynalang) | [[site]](https://dynalang.github.io) | [[bibtex]](./world-model-papers.bib#L156-L163)
 
 ## Visual and Robotics
   * **(PathDreamer)** Koh et al. ["PathDreamer: A World Model for Indoor Navigation"](https://arxiv.org/abs/2105.08756v2), 2021. [[code]](https://github.com/google-research/pathdreamer) | [[blog]](https://ai.googleblog.com/2021/09/pathdreamer-world-model-for-indoor.html) | [[bibtex]](./world-model-papers.bib#L129-L136)
