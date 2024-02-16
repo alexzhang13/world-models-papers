@@ -14,6 +14,7 @@ Selected list of papers on World Models that I found interesting and/or useful i
   * Kipf et al., ["Contrastive Learning of Structured World Models"](https://arxiv.org/abs/1911.12247v2), 2020. [[code]](https://github.com/tkipf/c-swm) | [[bibtex]](./world-model-papers.bib#L21-L28)
   * Zhang et al., ["World Model as a Graph: Learning Latent Landmarks for Planning"](https://arxiv.org/abs/2011.12491), 2021. [[code]](https://github.com/LunjunZhang/world-model-as-a-graph) | [[bibtex]](./world-model-papers.bib#L30-L37)
   * V. Micheli, and E. Alonso and F. Fleuret, ["Transformers are Sample-Efficient World Models"](https://openreview.net/forum?id=vhFu1Acb0xb), 2023. [[code]](https://github.com/eloialonso/iris) | [[bibtex]](./world-model-papers.bib#L39-L46)
+  * Deng et al., ["Facing Off World Model Backbones: RNNs, Transformers, and S4"](https://arxiv.org/abs/2307.02064), 2023. [[site]](https://fdeng18.github.io/s4wm/) | [[bibtex]](./world-model-papers.bib#L165-L172)
 
 ## Policy Improvements
   * **(DreamerV1)** Hafner et al., ["Dream to Control: Learning Behaviors by Latent Imagination"](https://arxiv.org/abs/1912.01603) 2019. [[code]](https://github.com/google-research/dreamer) | [[bibtex]](./world-model-papers.bib#L48-L55)
