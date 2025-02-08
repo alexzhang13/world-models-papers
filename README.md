@@ -1,5 +1,5 @@
 # World Model Papers
-Selected list of papers on World Models that I found interesting and/or useful in chronological order. Suggestions and pull requests are welcome and appreciated!
+Selected list of papers on World Models that I found interesting and/or useful in chronological order (mostly 2024 and before). For clarification since the term is overloaded now, world model is mainly referring to a learned representation of a (typically visual) environment that is useful for downstream model-based RL tasks -- not the LLM "world model"! Suggestions and pull requests are welcome and appreciated!
 
 # Areas
   * [General World Models](#general-world-models)
